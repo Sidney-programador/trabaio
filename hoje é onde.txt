@@ -1,0 +1,19 @@
+botao iniciar: caso a conta ja esteja criada, só escolher a conta que logou e acessar os eventos
+
+botao cadastre-se: ir pra outra tela
+
+segunda tela
+caixa de texto: colocar seu endereço de email
+
+caixa de texto: colocar sua senha
+
+primeira caixa branca: redireciona para outra tela pra acessar com o icloud
+
+segunda caixa branca: redireciona para outra tela para acessar com o google
+
+terceira caixa branca: outras opções como celular e facebook 
+
+
+
+Hoje É Aonde
+grupo: VINICIUS, RONALDO,  SIDNEY, LUCIANO E LUCAS
